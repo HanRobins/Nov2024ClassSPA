@@ -14,6 +14,7 @@ export default () => html`
           type="text"
           name="customer"
           id="customer"
+          
           placeholder="Enter Customer Name"
         />
       </div>
